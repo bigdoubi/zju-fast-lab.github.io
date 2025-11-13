@@ -29,7 +29,7 @@ interests:
 education:
   courses:
     - course: PhD in Mechanical Engineering
-      institution: Lihai University
+      institution: Lehigh University
     - course: MEng in Operations Research and Cybernetics
       institution: Zhejiang University
     - course: BEng in Mechatronic Engineering
