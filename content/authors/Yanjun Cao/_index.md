@@ -4,7 +4,7 @@ title: Yanjun Cao 曹燕军
 
 # Full Name (for SEO)
 first_name: Yanjun
-last_name: Cao
+last_name: cCao
 
 # Is this the primary user of the site?
 superuser: false

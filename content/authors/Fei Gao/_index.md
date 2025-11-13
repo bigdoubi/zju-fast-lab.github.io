@@ -4,7 +4,7 @@ title: Fei Gao 高飞
 
 # Full Name (for SEO)
 first_name: Fei
-last_name: Gao
+last_name: bGao
 
 # Is this the primary user of the site?
 superuser: false

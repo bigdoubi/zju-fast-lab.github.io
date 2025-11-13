@@ -4,7 +4,7 @@ title: Shengze Cai 蔡声泽
 
 # Full Name (for SEO)
 first_name: Shengze
-last_name: Cai
+last_name: dCai
 
 # Is this the primary user of the site?
 superuser: false
